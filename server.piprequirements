@@ -1,0 +1,5 @@
+fastapi[standard]  # <https://fastapi.tiangolo.com>
+
+nicegui  # <https://nicegui.io>
+
+pynacl # <https://pynacl.readthedocs.io>
